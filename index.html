@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html ng-app="app">
+<head>
+	<title>Coursework</title>
+
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.0/css/font-awesome.css" />
+
+	<style type="text/css">
+	.search {
+		float:none;
+		margin:auto;
+	}
+	.help {
+		text-align:center;
+		color:gray;
+		padding-top:2px;
+	}
+	.social-icon {
+		margin-top:5px;
+		padding-left:7px;
+	}
+	.facebook {
+		color:#425f9c;
+	}
+	.twitter {
+		color:#5dd7fc;
+	}
+	.twitter:hover {
+		color:#9edefa;
+	}
+	.github {
+		color:black;
+	}
+	.github:hover {
+		color:#595959;
+	}
+
+	/* Hide 'College' column from table on narrow screens */
+	@media all and (max-width: 844px) {
+		.college {
+			display:none;
+		}
+		.search {
+			float:none;
+			margin:auto;
+			padding:20px;
+		}
+	}
+	</style>
+
+</head>
+<body>
+	<!-- HEADER AND NAVBAR -->
+		<header>
+			<nav class="navbar navbar-default">
+			<div class="container">
+				<div class="navbar-header">
+					<a class="navbar-brand" href="/coursework">Roy Hewitt's Coursework</a>
+				</div>
+
+				<!--
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="#"><i class="fa fa-home"></i> Home</a></li>
+					<li><a href="#colleges"><i class="fa fa-hospital"></i>&nbsp;&nbsp;Colleges</a></li>
+					<li><a href="#departments"><i class="fa fa-book"></i>&nbsp;&nbsp;Departments</a></li>
+				</ul> -->
+
+				<div class="nav navbar-nav navbar-right">
+					<a target="_blank" href="http://twitter.com/r0yhewitt">
+						<i class="social-icon twitter fa fa-twitter fa-3x"></i>
+					</a>
+					<a target="_blank" href="http://github.com/rhewitt22">
+						<i class="social-icon github fa fa-github fa-3x"></i>
+					</a>
+				</div>
+			</div>
+			</nav>
+		</header>
+
+		<!-- MAIN CONTENT AND INJECTED VIEWS -->
+		<div ng-view></div>
+
+		<!-- FOOTER -->
+		<footer class="text-center"></footer>
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script>
+	<script src="script.js"></script>
+
+</body>
+</html>

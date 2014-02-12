@@ -1,0 +1,11 @@
+{
+	"name"        : "roy-coursework",
+	"version"     : "0.0.0",
+	"description" : "Simple application displaying my coursework",
+	"main"        : "server.js",
+	"author"      : "Roy Hewitt",
+	"dependencies": {
+		"express" :"~3.4.4",
+		"mongoose":"~3.6.2"
+	}
+}

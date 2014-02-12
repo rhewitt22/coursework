@@ -1,0 +1,591 @@
+{
+    "coursework" : {
+        "year2007": {
+            "fall": {
+                "CCJS100" : {
+                    "title": "Introduction to Criminal Justice",
+                    "description": "Introduction to the administration of criminal justice in a democratic society, with emphasis on the theoretical and historical development of law enforcement. The principles of organization and administration for law enforcement; functions and specific activities; planning and research; public relations; personnel and training; inspection and control; direction; policy formulation.",
+                    "grade": "B+",
+                    "points" : 9,
+                    "credits": 3,
+                    "department": "Criminology and Criminal Justice",
+                    "college": "Behavioral and Social Sciences"
+                },
+                "GEOG201" : {
+                    "title" : "Geography of Environmental Systems",
+                    "description" : "A systematic introduction to the processes and associated forms of the atmosphere and earth's surfaces emphasizing the interaction between climatology, hydrology and geomorphology.",
+                    "grade" : "B+",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "HIST157" : {
+                    "title" : "History of the United States Since 1865",
+                    "description" : "The United States from the end of the Civil War to the present. Economic, social, intellectual, and political developments. Rise of industry and emergence of the United States as a world power.",
+                    "grade" : "B-",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "History",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "MATH115" : {
+                    "title" : "Precalculus",
+                    "description" : "Elementary functions and graphs: polynomials, rational functions, exponential and logarithmic functions, trigonometric functions. Algebraic techniques preparatory for calculus.",
+                    "grade" : "B",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "Mathematics",
+                    "college" : "Computer, Mathematics and Natural Sciences"
+                },
+                "PSYC100" : {
+                    "title" : "Introduction to Psychology",
+                    "description" : "A basic introductory course, intended to bring the student into contact with the major problems confronting psychology and the more important attempts at their solution.",
+                    "grade" : "C",
+                    "points" : 6,
+                    "credits" : 3,
+                    "department" : "Psychology",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "standing" : {
+                    "attempted" : 15,
+                    "earned" : 15,
+                    "gpa" : 2.8,
+                    "cumulativeCredits" : 15,
+                    "cumulativeGpa" : 2.8
+                }
+            }
+        },
+        "year2008": {
+            "spring" : {
+                "ARCH170" : {
+                    "title" : "Introduction to the Built Environment",
+                    "description" : "Introduction of conceptual, perceptual, behavioral, and technical aspects of the built environment, and methods of analysis, problem- solving, and implementation.",
+                    "grade" : "B",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "Architecture",
+                    "college" : "Architecture, Planning and Preservation"
+                },
+                "CHEM135" : {
+                    "title" : "General Chemistry for Engineers",
+                    "description" : "The nature and composition of matter, solutions, chemical reactions, equilibria, and electrochemistry, with applications to various fields of engineering.",
+                    "grade" : "C",
+                    "points" : 6,
+                    "credits" : 3,
+                    "department" : "Chemistry and Biochemistry",
+                    "college" : "Computer, Mathematics and Natural Sciences"
+                },
+                "ENES100" : {
+                    "title" : "Introduction to Engineering Design",
+                    "description" : "Students work as teams to design and build a product using computer software for word-processing, spreadsheet, CAD, and communication skills.",
+                    "grade" : "B-",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "Mechanical Engineering",
+                    "college" : "A. James Clark School of Engineering"
+                },
+                "ENSP102" : {
+                    "title" : "Introduction to Environmental Policy",
+                    "description" : "Emphasis on the process of formulating, implementing, and evaluating policy responses to environmental problems, with particular attention to policy controversies related to scientific uncertainty, risk assessment, the valuation of nature, and distributional equity.",
+                    "grade" : "B",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "standing" : {
+                    "attempted" : 12,
+                    "earned" : 12,
+                    "gpa" : 2.750,
+                    "cumulativeCredits" : 27,
+                    "cumulativeGpa" : 2.777
+                }
+            },
+            "fall" : {
+                "BSCI106" : {
+                    "title" : "Principles of Evolutionary Biology",
+                    "description" : "Basic principles of biology with special emphasis on organismal, ecological and evolutionary biology.",
+                    "grade" : "B-",
+                    "points" : 12,
+                    "credits" : 4,
+                    "department" : "Biology",
+                    "college" : "Computer, Mathematics and Natural Sciences"
+                },
+                "EDCP318I" : {
+                    "title" : "Applied Contextual Leadership: Global Leadership",
+                    "description" : "The study of leadership as well as the application of leadership theories, concepts, and skills through course activities, internship experiences, and the development of a team project.",
+                    "grade" : "A-",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "Higher Education, Student Affairs, and International Education Policy",
+                    "college" : "Education"
+                },
+                "ENGL101" : {
+                    "title" : "Introduction to Writing",
+                    "description" : "An introductory course in expository writing.",
+                    "grade" : "B+",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "English",
+                    "college" : "Arts and Humanities"
+                },
+                "ENSP101" : {
+                    "title" : "Introduction to Environmental Science",
+                    "description" : "Emphasis on scientific ways of knowing; the systems, cycles, flows, and interfaces that characterize the atmosphere, lithosphere, hydrosphere, and biosphere; the analysis of human impacts on these systems; and the nature of scientific uncertainty and methods of quantifying environmental processes.",
+                    "grade" : "B",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "ENST373" : {
+                    "title" : "Natural History of the Chesapeake Bay",
+                    "description" : "Consideration of the major groups of organisms associated with the Chesapeake Bay and current issues that determine humans' present and future uses for the Chesapeake and its biota.",
+                    "grade" : "B",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "Environmental Science and Technology",
+                    "college" : "Agriculture and Natural Resources"
+                },
+                "standing" : {
+                    "attempted" : 16,
+                    "earned" : 16,
+                    "gpa" : 3.187,
+                    "cumulativeCredits" : 43,
+                    "cumulativeGpa" : 2.93
+                }
+            }
+        },
+        "year2009" : {
+            "spring" : {
+                "AREC240" : {
+                    "title" : "Introduction to Economics and the Environment",
+                    "description" : "Costs and social impacts of pollution and human crowding in the modern environment. The economic, legal and institutional causes of these problems. Public policy approaches to solutions and the costs and benefits of alternative solutions.",
+                    "grade" : "A-",
+                    "points" : 16,
+                    "credits" : 4,
+                    "department" : "Agriculture and Resource Economics",
+                    "college" : "Agriculture and Natural Resources"
+                },
+                "EDCP318I" : {
+                    "title" : "Applied Contextual Leadership: Global Leadership",
+                    "description" : "The study of leadership as well as the application of leadership theories, concepts, and skills through course activities, internship experiences, and the development of a team project.",
+                    "grade" : "A",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "Higher Education, Student Affairs, and International Education Policy",
+                    "college" : "Education"
+                },
+                "GEOG123" : {
+                    "title" : "Causes and Implications of Global Change",
+                    "description" : "Review of environmental science relating to weather and climate change, acid precipitation, ozone holes, global warming, and impacts on biology, agriculture, and human behavior. Study of the natural, long- term variability of the global environment, and what influence mankind may have in perturbing it from its natural evolution. Concepts of how physical, biological, and human behavioral systems interact, and the repercussions which may follow human endeavors.",
+                    "grade" : "B+",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "GEOG211" : {
+                    "title" : "Geography of Environmental Systems Laboratory",
+                    "description" : "Analysis of the components of the earth's energy balance using basic instrumentation; weather map interpretation; soil analysis; the application of map and air photo interpretation techniques to landform analysis.",
+                    "grade" : "A-",
+                    "points" : 4,
+                    "credits" : 1,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "GEOL100" : {
+                    "title" : "Physical Geology",
+                    "description" : "A general survey of the rocks and minerals composing the earth, its surface features and the agents that form them, and the dynamic forces of plate tectonics.",
+                    "grade" : "B",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "Geology",
+                    "college" : "Computer, Mathematical, & Physical Sciences"
+                },
+                "MATH220" : {
+                    "title" : "Elementary Calculus I",
+                    "description" : "Basic ideas of differential and integral calculus, with emphasis on elementary techniques of differentiation and applications.",
+                    "grade" : "C",
+                    "points" : 6,
+                    "credits" : 3,
+                    "department" : "Mathematics",
+                    "college" : "Computer, Mathematical, & Physical Sciences"
+                },
+                "standing" : {
+                    "attempted" : 17,
+                    "earned" : 17,
+                    "gpa" : 3.294,
+                    "cumulativeCredits" : 60,
+                    "cumulativeGpa" : 3.033
+                }
+            },
+            "fall" : {
+                "ENSP386" : {
+                    "title" : "Internship in Environmental Science and Policy",
+                    "description" : "Lab analysis, reasearch, and wildlife management with the U.S. Fish & Wildlife Service.",
+                    "grade" : "A",
+                    "points" : 24,
+                    "credits" : 6,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "GEOG306" : {
+                    "title" : "Introduction to Quantitative Methods for the Geographic Environmental Sciences",
+                    "description" : "Essentials in the quantitative analysis of spatial and other data, with a particular emphasis on statistics and programming. Topics include data display, data description and summary, statistical inference and significance tests, analysis of variance, correlation, regression, and some advanced concepts, such as matrix methods, principal component analysis, and spatial statistics.",
+                    "grade" : "A",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "GEOG345" : {
+                    "title" : "Introduction to Climatology",
+                    "description" : "The geographic aspects of climate with emphasis on energy-moisture budgets, steady-state and non steady-state climatology, and climatic variations at both macro-and micro-scales.",
+                    "grade" : "A+",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "GEOG431" : {
+                    "title" : "Culture and Natural Resource Management",
+                    "description" : "Basic issues concerning the natural history of humans from the perspective of the geographer. Basic components of selected behavioral and natural systems, their evolution and adaptation, and survival strategies.",
+                    "grade" : "A",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "standing" : {
+                    "attempted" : 15,
+                    "earned" : 15,
+                    "gpa" : 4.0,
+                    "cumulativeCredits" : 75,
+                    "cumulativeGpa" : 3.226
+                }
+            }
+        },
+        "year2010" : {
+            "winter" : {
+                "GEOG373" : {
+                    "title" : "Geographic Information Systems",
+                    "description" : "Characteristics and organization of geographic data; creation and use of digital geospatial databases; metadata; spatial data models for thematic mapping and map analysis; use of geographic information system in society, government, and business. Practical training with use of advanced software and geographic databases.",
+                    "grade" : "A-",
+                    "poitns" : 12,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "standing" : {
+                    "attempted" : 3,
+                    "earned" : 3,
+                    "gpa" : 4.0,
+                    "cumulativeCredits" : 78,
+                    "cumulativeGpa" : 3.256
+                }
+            },
+            "spring" : {
+                "ENGL398V" : {
+                    "title" : "Topics in Professional Writing: Writing about the Environment",
+                    "description" : "This course applies the principles of technical writing to a range of scenarios and issues particular to the intersection of scientific knowledge and environmental policy. Students practice writing to public audiences as well as decision-makers.",
+                    "grade" : "A-",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "English",
+                    "college" : "Arts and Humanities"
+                },
+                "ENST200" : {
+                    "title" : "Fundamentals to Soil Science",
+                    "description" : "Study and management of soils as natural bodies, media for plant growth, and ecosystem components. Morphology, composition, formation, and conservation of soils. Chemical, biological, and physical properties are discussed in relation to the production of plants, the functioning of hydrologic and nutrient cycles, the protection of environmental quality, and engineering uses of soils.",
+                    "grade" : "B",
+                    "points" : 12,
+                    "credits" : 4,
+                    "department" : "Environmental Science and Technology",
+                    "college" : "Agriculture and Natural Resources"
+                },
+                "GEOG342" : {
+                    "title" : "Introduction to Biogeography",
+                    "description" : "The principles of biogeography, including the patterns, processes and distributions of living organisms from local to global scales, aspects of ecophysiology, population and community ecology and evolutionary biology. Spatial processes in the biosphere will be covered.",
+                    "grade" : "A+",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "GEOG475" : {
+                    "title" : "Computer Cartography",
+                    "description" : "dvanced skills of computer mapping using more sophisticated software packages. Map projection evaluation and selection, coordinate system conversion, techniques of quantitative thematic mapping, map design and generalization, hypermedia and animated cartopgraphy. Emphasis on designing and making cartographically sound sophisticated thematic maps.",
+                    "grade" : "A",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "PHYS121" : {
+                    "title" : "Fundamentals of Physics",
+                    "description" : "",
+                    "grade" : "B",
+                    "points" : 12,
+                    "credits" : 4,
+                    "department" : "Physics",
+                    "college" : "Computer, Mathematical and Natural Sciences"
+                },
+                "standing" : {
+                    "attempted" : 17,
+                    "earned" : 17,
+                    "gpa" : 3.529,
+                    "cumulativeCredits" : 95,
+                    "cumulativeGpa" : 3.305
+                }
+            },
+            "summer" : {
+                "CHEM132" : {
+                    "title" : "General Chemistry I Laboratory",
+                    "description" : "Introduction to the quanitification of chemical substances, including the concept of the mole and chemical stoichiometry. Additional work involves the synthesis of ionic substances and their qualitative characterization.",
+                    "grade" : "B",
+                    "points" : 3,
+                    "credits" : 1,
+                    "department" : "Chemistry and Biochemistry",
+                    "college" : "Computer, Mathematical and Natural Sciences"
+                },
+                "standing" : {
+                    "attempted" : 1,
+                    "earned" : 1,
+                    "gpa" : 3.0,
+                    "cumulativeCredits" : 96,
+                    "cumulativeGpa" : 3.302
+                }
+            },
+            "fall" : {
+                "CHEM231" : {
+                    "title" : "Organic Chemistry I",
+                    "description" : "The chemistry of carbon: aliphatic compounds, aromatic compounds, stereochemistry, arenes, halides, alcohols, esters and spectroscopy.",
+                    "grade" : "C",
+                    "points" : 6,
+                    "credits" : 3,
+                    "department" : "Chemistry and Biochemistry",
+                    "college" : "Computer, Mathematical and Natural Sciences"
+                },
+                "CHEM232" : {
+                    "title" : "Organic Chemistry I Laboratory",
+                    "description" : "Provides experience in developing some basic laboratory techniques, recrystallizaton, distillation, extraction, chromatography. ",
+                    "grade" : "C",
+                    "points" : 2,
+                    "credits" : 1,
+                    "department" : "Chemistry and Biochemistry",
+                    "college" : "Computer, Mathematical and Natural Sciences"
+                },
+                "ENSP400" : {
+                    "title" : "Capstone in Environmental Science and Policy",
+                    "description" : "ntegration of physical, biological, and social sciences with applications to environmental science and policy. Problem-solving and multi-disciplinary case study evaluations pertinent to contemporary and future issues related to the environment.",
+                    "grade" : "B+",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "ENST444" : {
+                    "title" : "Restoration Ecology",
+                    "description" : "Discussion of the phiolosophies, principles, and practices of ecosystem restoration. Presentation of restoration case histories include wetlands, lakes, streams, coastal systems, mined lands, and new ecosystems.",
+                    "grade" : "A",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "Environmental Science and Technology",
+                    "college" : "Agriculture and Natural Resources"
+                },
+                "GEOG331" : {
+                    "title" : "Introduction to Human Dimensions of Global Change",
+                    "description" : "Introduction to global-scale interrelationship between human beings and the environment. The development of global issues including but not limited to the environment, food, energy, technology, population, and policy.",
+                    "grade" : "A+",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "GEOG442" : {
+                    "title" : "Biogeography",
+                    "description" : "Current Biogeographical topics of global significance, including a consideration of measurement techniques, and both descriptive and mechanistic modeling. Topics may include: scale in biogeography, climate and vegetation, global carbon cycle, biodiversity, interannual variability in the biosphere, land cover, global biospheric responses to climate change, NASA's Mission to Planet Earth and Earth Observation System.",
+                    "grade" : "A",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "standing" : {
+                    "attempted" : 16,
+                    "earned" : 16,
+                    "gpa" : 3.312,
+                    "cumulativeCredits" : 112,
+                    "cumulativeGpa" : 3.303
+                }
+            }
+        },
+        "year2011" : {
+            "spring" : {
+                "AREC332" : {
+                    "title" : "Introduction to Natural Resource Policy",
+                    "description" : "Development of natural resource policy and analysis of the evolution of public intervention in the use of natural resources. Examination of present policies and of conflicts between private individuals, public interest groups, and government agencies.",
+                    "grade" : "B",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "Agriculture and Resource Economics",
+                    "college" : "Agriculture and Natural Resources"
+                },
+                "AREC365" : {
+                    "title" : "World Hunger, Population, and Food Supplies",
+                    "description" : "An introduction to the problem of world hunger and possible solutions to it. World demand, supply, and distribution of food. Alternatives for leveling off world food demand, increasing the supply of food, and improving its distribution. Environmental limitations to increasing world food production.",
+                    "grade" : "B",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "Agriculture and Resource Economics",
+                    "college" : "Agriculture and Natural Resources"
+                },
+                "GEOG372" : {
+                    "title" : "Remote Sensing",
+                    "description" : "Principles of remote sensing in relation to photographic, thermal infrared and radar imaging. Methods of obtaining quantitative information from remotely-sensed images. Interpretation of remotely-sensed images emphasizing the study of spatial and environmental relationships.",
+                    "grade" : "B+",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "GEOG398A" : {
+                    "title" : "Introduction to Computer Programming in GIS",
+                    "description" : "Learn programming techniques necessary to automate geospatial analysis.",
+                    "grade" : "A",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "GEOG415" : {
+                    "title" : "Land Use, Climate Change and Sustainability",
+                    "description" : "The issues of climate change and land use change as two interlinked global and regional environmental issues and their implications for society and resource use are explored.",
+                    "grade" : "A",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "GEOG445" : {
+                    "title" : "Climatology",
+                    "description" : "Quantitative investigations into the Earth's radiation balance, water cycle, and the interrelationship of climate and vegetation. Methodologies in climate research. Case studies related to global climatic change.",
+                    "grade" : "A",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "standing" : {
+                    "attempted" : 18,
+                    "earned" : 18,
+                    "gpa" : 3.5,
+                    "cumulativeCredits" : 130,
+                    "cumulativeGpa" : 3.330
+                }
+            },
+            "summer" : {
+                "GEOG473" : {
+                    "title" : "Geographic Information Systems and Spatial Analysis",
+                    "description" : "Analytical uses of geographic information systems; data models for building geographic data bases; types of geographic data and spatial problems; practical experience using advanced software for thematic domains such as terrain analysis, land suitability modeling, demographic analysis, and transportation studies.",
+                    "grade" : "A",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "standing" : {
+                    "attempted" : 3,
+                    "earned" : 3,
+                    "gpa" : 4.0,
+                    "cumulativeCredits" : 133,
+                    "cumulativeGpa" : 3.345
+                }
+            },
+            "fall" : {
+                "BSCI121" : {
+                    "title" : "Beekeeping",
+                    "description" : "A study of the life history, behavior and seasonal activities of the honeybee, its place in pollination of flowers with emphasis on plants of economic importance and bee lore in literature. Course not acceptable toward major requirements in the College of Chemistry and Life Sciences. ",
+                    "grade" : "B-",
+                    "points" : 6,
+                    "credits" : 2,
+                    "department" : "Biology",
+                    "college" : "Computer, Mathematical and Natural Sciences"
+                },
+                "GEOG498" : {
+                    "title" : "Topical Investigations: Advanced Programming Techniques for GIS",
+                    "description" : "Programming techniques for modern GIS.",
+                    "grade" : "",
+                    "points" : 12,
+                    "credits" : 3,
+                    "department" : "Geographical Sciences",
+                    "college" : "Behavioral and Social Sciences"
+                },
+                "KNES137O" : {
+                    "title" : "Physical Education Activities: Coed: Golf",
+                    "description" : "",
+                    "grade" : "A+",
+                    "points" : 4,
+                    "credits" : 1,
+                    "department" : "Kinesiology",
+                    "college" : "School of Public Health"
+                },
+                "MATH221" : {
+                    "title" : "Elementary Calculus II",
+                    "description" : "",
+                    "grade" : "B",
+                    "points" : 9,
+                    "credits" : 3,
+                    "department" : "Mathematics",
+                    "college" : "Computer, Mathematical and Natural Sciences"
+                },
+                "standing" : {
+                    "attempted" : 9,
+                    "earned" : 9,
+                    "gpa" : 3.444,
+                    "cumulativeCredits" : 142,
+                    "cumulativeGpa" : 3.352
+                }
+            }
+        }
+    },
+    "highschool" : {
+        "AP" : {
+            "environmentalScience" : {
+                "score" : 4,
+                "credits" : 3
+            },
+            "credits" : 3
+        },
+        "IB" : {
+            "english" : {
+                "score" : 5,
+                "credits" : 3
+            },
+            "french" : {
+                "score" : 5,
+                "credits" : 4
+            },
+            "history" : {
+                "score" : 5,
+                "credits" : 3
+            },
+            "credits" : 10
+        },
+        "cumulativeCredits" : 13
+    },
+    "final" : {
+        "cumulativeCredits" : 155,
+        "cumulativeGpa" : 3.352,
+        "degree" : {
+            "college" : "Behavioral and Social Science",
+            "type" : "Bachelor of Science",
+            "awardDate" : "12/21/11",
+            "major" : "Environmental Science and Policy",
+            "specialization" : "Global Environmental Change",
+            "minor" : "Geographic Information Systems"
+        }
+    }
+}
